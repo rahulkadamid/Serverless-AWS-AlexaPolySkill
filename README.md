@@ -6,7 +6,7 @@
 
 ## Goal:
 
-The goal is to build application using serverless architecture which converts text to audio mp3 files using Amazon Poly service and finally to publish Alexa skill which uses the generated audio files by Poly. 
+The goal is to build Scalable web application using serverless architecture which converts text to audio mp3 files and creates an Alexa skill which can read these audio files on command from user. 
 
 </br>
 
